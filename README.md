@@ -1,1 +1,1 @@
-# 对Titanic数据进行分析，数据是从kaggle中获取的，文件titanic_analysis.ipynb中是整个数据的挖掘过程
+# 对Titanic数据进行挖掘，数据是从kaggle中获取的，在文件titanic_analysis.ipynb中是整个数据的挖掘过程
