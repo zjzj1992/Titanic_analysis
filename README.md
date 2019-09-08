@@ -1,1 +1,2 @@
-# 对Titanic数据进行挖掘，数据是从kaggle中获取的，在文件titanic_analysis.ipynb中是整个数据的挖掘过程
+# 数据是从kaggle中获取的，目的是通过对数据进行建模来对人员的生死进行预测
+# 分析结果可以直接点击ipynb文件查看，或者下载html文件直接查看
